@@ -8,7 +8,7 @@ An interactive Power BI report that shows **where on the car** scratches and scr
 > **Assessment:** Portfolio of Evidence (POE) – Task 2  
 > **Tool:** Power BI Desktop  
 
-![Dashboard preview](<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/11ed806a-309c-427c-85c7-717db586c4d9" />
+(<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/11ed806a-309c-427c-85c7-717db586c4d9" />
 )
 
 ---
